@@ -1,0 +1,18 @@
+{
+  "imports": {
+    "@/": "./",
+    "$fresh/": "https://deno.land/x/fresh@1.0.1/",
+    "preact": "https://esm.sh/preact@10.8.2",
+    "preact/": "https://esm.sh/preact@10.8.2/",
+    "preact-render-to-string": "https://esm.sh/preact-render-to-string@5.2.0?deps=preact@10.8.2",
+    "@twind": "./utils/twind.ts",
+    "twas": "https://esm.sh/twas@2.1.2",
+    "twind": "https://esm.sh/twind@0.16.17",
+    "twind/": "https://esm.sh/twind@0.16.17/",
+    "$std/": "https://deno.land/std@0.148.0/",
+    "emojify": "https://esm.sh/@twuni/emojify@1.0.2",
+    "zod": "https://deno.land/x/zod@v3.17.3/mod.ts",
+    "zodFormData": "https://esm.sh/zod-form-data@1.2.1",
+    "status": "https://deno.land/std@0.148.0/http/http_status.ts"
+  }
+}
